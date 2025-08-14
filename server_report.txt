@@ -1,0 +1,59 @@
+
+URL: http://www.google.com
+IP do Servidor: 142.251.132.36
+Status HTTP: 200
+Cabeçalhos: {'Date': 'Wed, 13 Aug 2025 22:17:20 GMT', 'Expires': '-1', 'Cache-Control': 'private, max-age=0', 'Content-Type': 'text/html; charset=ISO-8859-1', 'Content-Security-Policy-Report-Only': "object-src 'none';base-uri 'self';script-src 'nonce-JzSOi1HvGShADsC7lb-U_g' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp", 'P3P': 'CP="This is not a P3P policy! See g.co/p3phelp for more info."', 'Content-Encoding': 'gzip', 'Server': 'gws', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'Transfer-Encoding': 'chunked', 'Set-Cookie': 'AEC=AVh_V2jTQMPz1N8vpz6XF_BgtGY8pdazSerLJoOwxnRkKKuBm4gkkYeBtQ; expires=Mon, 09-Feb-2026 22:17:20 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax, NID=525=nQXbvj1N4UOvNBqSR9IommahVz2JVt10fm_B0hfa3O3Yc_AMFVY7uAVYDSPl8_bCkx2JvP8B95nvPefVqdanQgP2UI9hnKCnKuRQfM--jWdeBPtdmArML3K0l7fpEoubKIX5j8-wNtIuL9GmmMXT68OBU9AVjGWliywXjL6zX4itt_jAzjCvsXN80uyR3gQfWBEdIzqb359tWXKalQ; expires=Thu, 12-Feb-2026 22:17:20 GMT; path=/; domain=.google.com; HttpOnly'}
+Tecnologias Detectadas: gws
+Portas Abertas: 80,443
+Informações WHOIS: {
+  "domain_name": "GOOGLE.COM",
+  "registrar": "MarkMonitor, Inc.",
+  "registrar_url": "http://www.markmonitor.com",
+  "reseller": null,
+  "whois_server": "whois.markmonitor.com",
+  "referral_url": null,
+  "updated_date": [
+    "2019-09-09 15:39:04",
+    "2024-08-02 02:17:33+00:00"
+  ],
+  "creation_date": [
+    "1997-09-15 04:00:00",
+    "1997-09-15 07:00:00+00:00"
+  ],
+  "expiration_date": [
+    "2028-09-14 04:00:00",
+    "2028-09-13 07:00:00+00:00"
+  ],
+  "name_servers": [
+    "NS1.GOOGLE.COM",
+    "NS2.GOOGLE.COM",
+    "NS3.GOOGLE.COM",
+    "NS4.GOOGLE.COM"
+  ],
+  "status": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)",
+    "serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)"
+  ],
+  "emails": [
+    "abusecomplaints@markmonitor.com",
+    "whoisrequest@markmonitor.com"
+  ],
+  "dnssec": "unsigned",
+  "name": null,
+  "org": "Google LLC",
+  "address": null,
+  "city": null,
+  "state": null,
+  "registrant_postal_code": null,
+  "country": "US"
+}
